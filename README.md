@@ -15,7 +15,7 @@ Pythemon is a Pokémon battle simulation game built using Python and Pygame. The
 
 ### Main Menu
 
-![Main Menu](images_gameplay/main_menu.png)
+![Main Menu](./images_gameplay/startscreen.PNG)
 
 ### Wild Pokémon Scene
 
